@@ -1,0 +1,2 @@
+dubboServerFilter=com.bw.ae.ntf_filters.filters.DubboServerFilter
+dubboClientFilter=com.bw.ae.ntf_filters.filters.DubboClientFilter

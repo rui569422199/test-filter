@@ -7,4 +7,5 @@ Build-Jdk: 1.8.0_172
 Implementation-URL: http://maven.apache.org/test-filter
 Created-By: Maven Integration for Eclipse
 Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: personal.wrui.AppBeanUtil
 
